@@ -237,4 +237,4 @@ This repository serves as the official landing page for MSI Afterburner. The sof
 **Get the most recent version of MSI Afterburner today!**
 
 ---
-**Last updated:** 2026-10-06 00:24:27 UTC
+**Last updated:** 2026-10-06 06:55:41 UTC
